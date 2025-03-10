@@ -1,0 +1,1 @@
+![Build Status](https://github.com/Rohit-learn/SeleniumFrameworkDesign/actions/workflows/maven.yml/badge.svg)
