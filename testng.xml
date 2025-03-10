@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="rahulshettyacademy.TestComponents.BaseTest"/>
-      <class name="rahulshettyacademy.tests.ErrorValidationsTest"/>
+   	  <class name="rahulshettyacademy.tests.ErrorValidationsTest"/>
       <class name="rahulshettyacademy.tests.SubmitOrderTest"/>
     </classes>
   </test> <!-- Test -->
